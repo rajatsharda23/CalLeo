@@ -4,3 +4,6 @@
 [submodule "CalLeo_frontend"]
 	path = CalLeo_frontend
 	url = https://github.com/rajatsharda23/CalLeo_frontend
+[submodule "Leo"]
+	path = Leo
+	url = https://github.com/rajatsharda23/Leo
